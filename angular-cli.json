@@ -1,16 +1,13 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "abhijit-kar-portfolio"
+    "name": "angular-scaffolding"
   },
   "apps": [
     {
       "root": "src",
-      "outDir": "dist",
-      "assets": [
-        "assets",
-        "favicon.ico"
-      ],
+      "outDir": "dist/browser",
+      "assets": ["assets", "favicon.ico"],
       "index": "index.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
@@ -18,9 +15,28 @@
       "tsconfig": "tsconfig.app.json",
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
-      "styles": [
-        "styles.css"
-      ],
+      "serviceWorker": true,
+      "styles": ["styles.css"],
+      "scripts": [],
+      "environmentSource": "environments/environment.ts",
+      "environments": {
+        "dev": "environments/environment.ts",
+        "prod": "environments/environment.prod.ts"
+      }
+    },
+    {
+      "root": "src",
+      "outDir": "dist/server",
+      "assets": ["assets", "favicon.ico"],
+      "platform": "server",
+      "index": "index.html",
+      "main": "main.server.ts",
+      "test": "test.ts",
+      "tsconfig": "tsconfig.server.json",
+      "testTsconfig": "tsconfig.spec.json",
+      "prefix": "app",
+      "serviceWorker": true,
+      "styles": ["styles.css"],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
       "environments": {
@@ -55,8 +71,7 @@
   },
   "defaults": {
     "styleExt": "css",
-    "component": {
-    }
+    "component": {}
   },
   "warnings": {
     "typescriptMismatch": false
