@@ -1,1 +1,1 @@
-# angular-scaffolding
+# Angular Scaffolding
