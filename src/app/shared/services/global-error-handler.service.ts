@@ -21,6 +21,5 @@ export class GlobalErrorHandlerService implements ErrorHandler {
     const errMsg = error.message || error.toString();
     this.googleAnalyticsService.emitEvent("Error", errMsg);
     console.log(errMsg);
-    throw error;
   }
 }
