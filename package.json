@@ -1,0 +1,40 @@
+{
+  "name": "abhijit-kar-portfolio",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e",
+    "deploy-to-github-pages": "ng build --prod --base-href http://www.abhijit-kar.com/ && ngh --branch=master"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^5.1.2",
+    "@angular/common": "^5.1.2",
+    "@angular/compiler": "^5.1.2",
+    "@angular/core": "^5.1.2",
+    "@angular/forms": "^5.1.2",
+    "@angular/http": "^5.1.2",
+    "@angular/platform-browser": "^5.1.2",
+    "@angular/platform-browser-dynamic": "^5.1.2",
+    "@angular/router": "^5.1.2",
+    "core-js": "^2.5.3",
+    "express": "^4.16.2",
+    "rxjs": "^5.5.6",
+    "zone.js": "^0.8.19"
+  },
+  "devDependencies": {
+    "@angular/cli": "1.6.3",
+    "@angular/compiler-cli": "^5.1.2",
+    "@angular/language-service": "^5.1.2",
+    "@types/node": "~8.5.2",
+    "codelyzer": "~4.0.2",
+    "ts-node": "~4.1.0",
+    "tslint": "~5.8.0",
+    "typescript": "~2.6.2"
+  }
+}
