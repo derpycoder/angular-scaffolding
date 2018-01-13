@@ -17,7 +17,7 @@
     "serve:universal": "node dist/server.js",
 
     "deploy:dev":
-      "npm run build:client --base-href http://voraknotech.com/angular-scaffolding/ && ngh --dir=dist/browser/"
+      "ng build --prod --aot --base-href http://www.voraknotech.com/angular-scaffolding/ && ngh --dir=dist/browser/"
   },
   "private": true,
   "dependencies": {
