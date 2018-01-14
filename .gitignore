@@ -1,5 +1,6 @@
 # compiled output
-/dist
+/public/dist
+/public/etc
 /tmp
 /out-tsc
 
@@ -16,8 +17,8 @@
 *.sublime-workspace
 
 # IDE - VSCode
+.vscode
 .vscode/*
-.vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
