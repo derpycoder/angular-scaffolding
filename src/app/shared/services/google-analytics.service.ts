@@ -5,7 +5,7 @@ declare var ga;
 
 @Injectable()
 export class GoogleAnalyticsService {
-  googleAnalyticsKey: string = "UA-112417282-1";
+  private googleAnalyticsKey: string = "UA-112417282-1";
 
   constructor(@Inject(PLATFORM_ID) private platformId: Object) {
     this.initGoogleAnalytics();
