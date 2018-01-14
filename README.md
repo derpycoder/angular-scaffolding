@@ -5,6 +5,6 @@
 - [x] Google Analytics
 - [x] Global Error Handling
 - [x] Github Pages Deployment
-- [ ] Google Cloud Deployment
+- [x] Google Cloud Deployment
 - [ ] Search Engine Optimization
 - [ ] Logger
