@@ -1,0 +1,43 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/inline.7ad2341406979bc109f6.bundle.js",
+        "/main.a8142cd44771bc86fe71.bundle.js",
+        "/polyfills.0fbb33eaf5aae7da9e9a.bundle.js",
+        "/styles.d41d8cd98f00b204e980.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/manifest.json"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
+        "https:\\/\\/maxcdn\\.bootstrapcdn\\.com\\/bootstrap\\/3\\.3\\.7\\/css\\/bootstrap\\.min\\.css",
+        "https:\\/\\/maxcdn\\.bootstrapcdn\\.com\\/font-awesome\\/4\\.7\\.0\\/css\\/font-awesome\\.min\\.css"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/inline.7ad2341406979bc109f6.bundle.js": "6f9f76514781ccfe87b672143f3c0825b5b27e08",
+    "/assets/manifest.json": "72f6f7319bc65316f050cef795ebe41ae77477d4",
+    "/main.a8142cd44771bc86fe71.bundle.js": "57963bfff971fbc2e2c01675ab2bbf805484af70",
+    "/polyfills.0fbb33eaf5aae7da9e9a.bundle.js": "681376885afb2fbd585549769d0d0db02ea251e0",
+    "/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/favicon.ico": "5168201405c98593ddf271e249b323d7515b2139",
+    "/index.html": "65d25c69141c378ebccc49b9948964a62dd81cd8"
+  }
+}
