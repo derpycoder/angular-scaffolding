@@ -5,7 +5,7 @@ declare var ga;
 
 @Injectable()
 export class GoogleAnalyticsService {
-  private googleAnalyticsKey: string = "UA-112417282-1";
+  private googleAnalyticsKey = "UA-112417282-1";
 
   constructor(@Inject(PLATFORM_ID) private platformId: Object) {
     this.initGoogleAnalytics();
@@ -33,7 +33,7 @@ export class GoogleAnalyticsService {
     if (isPlatformServer(this.platformId)) {
       return;
     }
-    
+
     try {
       ga("set", "page", event.urlAfterRedirects);
       ga("send", "pageview");
