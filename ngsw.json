@@ -9,8 +9,8 @@
       "urls": [
         "http://www.abhijit-kar.com/angular-scaffolding/favicon.ico",
         "http://www.abhijit-kar.com/angular-scaffolding/index.html",
-        "http://www.abhijit-kar.com/angular-scaffolding/inline.7ad2341406979bc109f6.bundle.js",
-        "http://www.abhijit-kar.com/angular-scaffolding/main.a8142cd44771bc86fe71.bundle.js",
+        "http://www.abhijit-kar.com/angular-scaffolding/inline.dc429c1c07345bf46801.bundle.js",
+        "http://www.abhijit-kar.com/angular-scaffolding/main.2da427e97e203c33bf4e.bundle.js",
         "http://www.abhijit-kar.com/angular-scaffolding/polyfills.0fbb33eaf5aae7da9e9a.bundle.js",
         "http://www.abhijit-kar.com/angular-scaffolding/styles.d41d8cd98f00b204e980.bundle.css"
       ],
@@ -32,12 +32,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "http://www.abhijit-kar.com/angular-scaffolding/inline.7ad2341406979bc109f6.bundle.js": "6f9f76514781ccfe87b672143f3c0825b5b27e08",
+    "http://www.abhijit-kar.com/angular-scaffolding/inline.dc429c1c07345bf46801.bundle.js": "c87997a459bda544e0a7d71c0325b367ca6e6cae",
     "http://www.abhijit-kar.com/angular-scaffolding/assets/manifest.json": "72f6f7319bc65316f050cef795ebe41ae77477d4",
-    "http://www.abhijit-kar.com/angular-scaffolding/main.a8142cd44771bc86fe71.bundle.js": "57963bfff971fbc2e2c01675ab2bbf805484af70",
-    "http://www.abhijit-kar.com/angular-scaffolding/polyfills.0fbb33eaf5aae7da9e9a.bundle.js": "681376885afb2fbd585549769d0d0db02ea251e0",
+    "http://www.abhijit-kar.com/angular-scaffolding/main.2da427e97e203c33bf4e.bundle.js": "52c2910f4e5fb1e7ecd1df4e5648dd73ed3000b6",
+    "http://www.abhijit-kar.com/angular-scaffolding/polyfills.0fbb33eaf5aae7da9e9a.bundle.js": "1214d5fb0a2e7384b9532789829d68f949537e2b",
     "http://www.abhijit-kar.com/angular-scaffolding/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "http://www.abhijit-kar.com/angular-scaffolding/favicon.ico": "5168201405c98593ddf271e249b323d7515b2139",
-    "http://www.abhijit-kar.com/angular-scaffolding/index.html": "cdc70ed6c0dd311a5990ac9018b90a29344520bd"
+    "http://www.abhijit-kar.com/angular-scaffolding/index.html": "4f1fed262cdcd9095b313110e072ab6bb915bc24"
   }
 }
