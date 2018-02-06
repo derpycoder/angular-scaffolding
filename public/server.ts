@@ -8,7 +8,7 @@ import "reflect-metadata";
 import * as express from "express";
 import { join } from "path";
 import { readFileSync } from "fs";
-var compression = require("compression");
+const compression = require("compression");
 
 enableProdMode();
 
