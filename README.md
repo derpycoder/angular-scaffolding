@@ -12,5 +12,6 @@
 - [x] Global Error Handling
 - [x] Github Pages Deployment
 - [x] Google Cloud Deployment
+- [x] Advanced Minimal Routing
 - [ ] Search Engine Optimization
 - [ ] Logger
