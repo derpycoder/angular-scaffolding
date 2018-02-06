@@ -7,15 +7,17 @@ import { environment } from "../environments/environment";
 import { AppRoutingModule } from "./app-routing.module";
 import { SharedModule } from "./shared/shared.module";
 
-import { AppComponent } from "./app.component";
+import { FeaturesModule } from "./features/features.module";
+import { AppComponent, HeaderComponent, FooterComponent } from "./";
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, HeaderComponent, FooterComponent],
   imports: [
-    BrowserModule.withServerTransition({ appId: "dont-let-him-pou" }),
+    BrowserModule.withServerTransition({ appId: "angular-scaffolding" }),
     ServiceWorkerModule.register("/ngsw-worker.js", {
       enabled: environment.production
     }),
+    FeaturesModule,
     AppRoutingModule,
     SharedModule
   ],
