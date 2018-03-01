@@ -3,10 +3,12 @@ import { CommonModule } from "@angular/common";
 
 import { FeaturesRoutingModule } from "./features-routing.module";
 
+import { PageNotFoundComponent } from "./404/404.component";
+
 @NgModule({
   imports: [CommonModule, FeaturesRoutingModule],
-  declarations: [],
+  declarations: [PageNotFoundComponent],
   providers: [],
-  exports: []
+  exports: [PageNotFoundComponent]
 })
 export class FeaturesModule {}
