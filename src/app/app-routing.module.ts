@@ -1,11 +1,7 @@
 import { NgModule } from "@angular/core";
 import { Routes, RouterModule } from "@angular/router";
 
-import { PageNotFoundComponent } from "./features/404/404.component";
-
-const routes: Routes = [
-  { path: "**", component: PageNotFoundComponent, pathMatch: "full" }
-];
+const routes: Routes = [{ path: "**", redirectTo: "home" }];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
