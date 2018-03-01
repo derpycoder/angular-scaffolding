@@ -1,0 +1,7 @@
+:root {
+  --pink: #e83e8c;
+}
+
+.pink {
+  color: var(--pink);
+}
