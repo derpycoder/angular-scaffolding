@@ -1,21 +1,21 @@
 {
   "configVersion": 1,
-  "index": "http://www.abhijit-kar.com/angular-scaffolding/index.html",
+  "index": "https://www.abhijit-kar.com/angular-scaffolding/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "http://www.abhijit-kar.com/angular-scaffolding/favicon.ico",
-        "http://www.abhijit-kar.com/angular-scaffolding/index.html",
-        "http://www.abhijit-kar.com/angular-scaffolding/0.18ca7a3004e7edf7cbf3.chunk.js",
-        "http://www.abhijit-kar.com/angular-scaffolding/1.ab9ca790708972552f5b.chunk.js",
-        "http://www.abhijit-kar.com/angular-scaffolding/2.adc09a96b9774c3572ac.chunk.js",
-        "http://www.abhijit-kar.com/angular-scaffolding/inline.d49ddc2adcaa36a6d00b.bundle.js",
-        "http://www.abhijit-kar.com/angular-scaffolding/main.d1ba8f50d7cc341ba38e.bundle.js",
-        "http://www.abhijit-kar.com/angular-scaffolding/polyfills.318760c2398294ac4eab.bundle.js",
-        "http://www.abhijit-kar.com/angular-scaffolding/styles.69825f51ca312854c8e8.bundle.css"
+        "https://www.abhijit-kar.com/angular-scaffolding/favicon.ico",
+        "https://www.abhijit-kar.com/angular-scaffolding/index.html",
+        "https://www.abhijit-kar.com/angular-scaffolding/0.18ca7a3004e7edf7cbf3.chunk.js",
+        "https://www.abhijit-kar.com/angular-scaffolding/1.ab9ca790708972552f5b.chunk.js",
+        "https://www.abhijit-kar.com/angular-scaffolding/2.adc09a96b9774c3572ac.chunk.js",
+        "https://www.abhijit-kar.com/angular-scaffolding/inline.d49ddc2adcaa36a6d00b.bundle.js",
+        "https://www.abhijit-kar.com/angular-scaffolding/main.46e2dcc7aab26b0bef0d.bundle.js",
+        "https://www.abhijit-kar.com/angular-scaffolding/polyfills.318760c2398294ac4eab.bundle.js",
+        "https://www.abhijit-kar.com/angular-scaffolding/styles.69825f51ca312854c8e8.bundle.css"
       ],
       "patterns": []
     },
@@ -24,7 +24,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "http://www.abhijit-kar.com/angular-scaffolding/assets/manifest.json"
+        "https://www.abhijit-kar.com/angular-scaffolding/assets/manifest.json"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
@@ -35,15 +35,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "http://www.abhijit-kar.com/angular-scaffolding/0.18ca7a3004e7edf7cbf3.chunk.js": "6fccb7d1cb3632cd7e0f3db50ff8ac18816c6433",
-    "http://www.abhijit-kar.com/angular-scaffolding/assets/manifest.json": "3befdac9608ea9b9e0d33bb8cdb632fa3b7f3d86",
-    "http://www.abhijit-kar.com/angular-scaffolding/1.ab9ca790708972552f5b.chunk.js": "f1a21284c76e8f4d6e264f0a9c44e4f730941e11",
-    "http://www.abhijit-kar.com/angular-scaffolding/2.adc09a96b9774c3572ac.chunk.js": "e0046496f87702192bb41a12324647b5ab1822e6",
-    "http://www.abhijit-kar.com/angular-scaffolding/inline.d49ddc2adcaa36a6d00b.bundle.js": "6f767063417277d97ffc79e5e6b40cc68824fe45",
-    "http://www.abhijit-kar.com/angular-scaffolding/main.d1ba8f50d7cc341ba38e.bundle.js": "e5f3f6e7d6619a97592c2d6f0cef6516dbfb4444",
-    "http://www.abhijit-kar.com/angular-scaffolding/polyfills.318760c2398294ac4eab.bundle.js": "21ab7d360b9cdf41a1777997de6766b2e8629769",
-    "http://www.abhijit-kar.com/angular-scaffolding/styles.69825f51ca312854c8e8.bundle.css": "db6a98190b4c0a5e90d4968e40df18c3b1bfc7fd",
-    "http://www.abhijit-kar.com/angular-scaffolding/favicon.ico": "5168201405c98593ddf271e249b323d7515b2139",
-    "http://www.abhijit-kar.com/angular-scaffolding/index.html": "98cbc23d35204b03688cf19e846b505f330c9813"
+    "https://www.abhijit-kar.com/angular-scaffolding/0.18ca7a3004e7edf7cbf3.chunk.js": "6fccb7d1cb3632cd7e0f3db50ff8ac18816c6433",
+    "https://www.abhijit-kar.com/angular-scaffolding/assets/manifest.json": "d7769f0727dd2c00b5013c161a57714cb2e60cab",
+    "https://www.abhijit-kar.com/angular-scaffolding/1.ab9ca790708972552f5b.chunk.js": "f1a21284c76e8f4d6e264f0a9c44e4f730941e11",
+    "https://www.abhijit-kar.com/angular-scaffolding/2.adc09a96b9774c3572ac.chunk.js": "e0046496f87702192bb41a12324647b5ab1822e6",
+    "https://www.abhijit-kar.com/angular-scaffolding/inline.d49ddc2adcaa36a6d00b.bundle.js": "6f767063417277d97ffc79e5e6b40cc68824fe45",
+    "https://www.abhijit-kar.com/angular-scaffolding/main.46e2dcc7aab26b0bef0d.bundle.js": "3f92acad7f2b03df171ebcee458f10258d8fe98a",
+    "https://www.abhijit-kar.com/angular-scaffolding/polyfills.318760c2398294ac4eab.bundle.js": "21ab7d360b9cdf41a1777997de6766b2e8629769",
+    "https://www.abhijit-kar.com/angular-scaffolding/styles.69825f51ca312854c8e8.bundle.css": "db6a98190b4c0a5e90d4968e40df18c3b1bfc7fd",
+    "https://www.abhijit-kar.com/angular-scaffolding/favicon.ico": "5168201405c98593ddf271e249b323d7515b2139",
+    "https://www.abhijit-kar.com/angular-scaffolding/index.html": "2d76d651fc5377d454ba8add16a432ce59291421"
   }
 }

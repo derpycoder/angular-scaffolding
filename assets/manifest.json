@@ -4,6 +4,6 @@
   "theme_color": "#333333",
   "background_color": "#333333",
   "display": "fullscreen",
-  "scope": "/",
-  "start_url": "/"
+  "scope": "/angular-scaffolding",
+  "start_url": "/angular-scaffolding"
 }
