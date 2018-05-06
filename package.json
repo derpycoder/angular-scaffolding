@@ -17,7 +17,7 @@
     "serve:universal": "npm start --prefix ./public/",
 
     "deploy:dev":
-      "ng build --prod --aot --base-href http://www.abhijit-kar.com/angular-scaffolding/ && ngh --dir=public/dist/browser/",
+      "ng build --prod --aot --base-href https://www.abhijit-kar.com/angular-scaffolding/ && ngh --dir=public/dist/browser/",
     "deploy:prod": "npm run build:universal && ngh --dir=public/ --branch=prod"
   },
   "private": true,
