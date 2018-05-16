@@ -13,5 +13,6 @@
 - [x] Github Pages Deployment
 - [x] Google Cloud Deployment
 - [x] Advanced But Minimal Routing
+- [x] 2 SEO Features - Meta & Title services
 
 Use http://botmap.io/ to generate sitemaps for Angular / React projects.
